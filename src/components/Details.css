@@ -1,0 +1,10 @@
+.Details-list {
+    padding: 1em;
+    text-align: center;
+}
+
+.Details-list strong {
+    display: block;
+    margin: .2em;
+    color: #AAA;
+}
